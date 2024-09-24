@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Order_Detail>
+	<order>
+	<OrderNumber>101</OrderNumber>
+	<Orderate>10000</Orderate>
+	<OrderAmount>1000</OrderAmount>
+	<ItemPrice>10</ItemPrice>
+	<ItemName>Pen</ItemName>
+	<Quantity>100</Quantity>
+	</order>
+	
+	<order>
+	<OrderNumber>151</OrderNumber>
+	<Orderate>1100</Orderate>
+	<OrderAmount>1250</OrderAmount>
+	<ItemPrice>10</ItemPrice>
+	<ItemName>Pencil</ItemName>
+	<Quantity>100</Quantity>
+	</order>
+</Order_Detail>

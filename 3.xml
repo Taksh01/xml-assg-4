@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<book_info>
+<books>
+	<book title="Art of War"></book>
+	<author>Tan Ze Hung</author>
+	<year>1995</year>
+	<publisher>Kaizen</publisher>
+</books>
+
+<books>
+	<book title="Va Tech"></book>
+	<author>Tan Ze Hung</author>
+	<year>1996</year>
+	<publisher>Kaizen</publisher>
+</books>
+
+<books>
+	<book title="Art of War"></book>
+	<author>Tan Ze Hung</author>
+	<year>2005</year>
+	<publisher>Kaizen</publisher>
+</books>
+
+<books>
+	<book title="Art of War"></book>
+	<author>Tan Ze Hung</author>
+	<year>2005</year>
+	<publisher>Kaizen</publisher>
+</books>
+
+<books>
+	<book title="RobbinHood"></book>
+	<author>Tan Ze Hung</author>
+	<year>1800</year>
+	<publisher>Kaizen</publisher>
+</books>
+	
+</book_info>

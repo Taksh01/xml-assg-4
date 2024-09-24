@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stud>
+   <fname id="001">
+      <courses>XML</courses>
+      <courses>C++</courses>
+      <courses>Java</courses>
+   </fname>
+   <fname id="121">
+      <courses>Mongodb</courses>
+      <courses>React</courses>
+      <courses>Nord</courses>
+   </fname>
+   <fname id="121">
+      <courses>Python</courses>
+      <courses>C#</courses>
+      <courses>Java</courses>
+   </fname>
+</stud>

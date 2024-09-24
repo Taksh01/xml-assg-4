@@ -1,0 +1,38 @@
+<stud_info>
+<stud>
+	<name>Taksh</name>
+	<personal_info>
+		<add>Paldi</add>
+		<bday>01-01-2005</bday>
+		<gender>Male</gender>
+		<mobileNo>123456789</mobileNo>
+		<add>Paldi</add>
+	</personal_info>
+	<result>85</result>
+</stud>
+
+<stud>
+	<name>Shah</name>
+	<personal_info>
+		<add>Surat</add>
+		<bday>01-01-2005</bday>
+		<gender>Male</gender>
+		<mobileNo>123456789</mobileNo>
+		<add>Surat</add>
+	</personal_info>
+	<result>90</result>
+</stud>
+
+<stud>
+	<name>Veena</name>
+	<personal_info>
+		<add>Paldi</add>
+		<bday>01-01-2005</bday>
+		<gender>Female</gender>
+		<mobileNo>123456789</mobileNo>
+		<add>Paldi</add>
+	</personal_info>
+	<result>95</result>
+</stud>
+
+</stud_info>

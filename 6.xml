@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<stud>
+<student>
+		<name fname="Taksh" lname="shah"></name>
+		<id>001</id>
+		<plan>
+		<courses>XML</courses>
+		<courses>C++</courses>
+		<courses>Java</courses>
+		</plan>	
+</student>
+
+<student>
+		<name fname="Veena" lname="Patel"></name>
+		<id>121</id>
+		<plan>
+		<courses>Mongodb</courses>
+		<courses>React</courses>
+		<courses>Nord</courses>
+		</plan>	
+</student>
+
+<student>
+		<name fname="Naksh" lname="shah"></name>
+		<id>121</id>
+		<plan>
+		<courses>Python</courses>
+		<courses>C#</courses>
+		<courses>Java</courses>
+		</plan>	
+</student>
+</stud>
