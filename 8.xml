@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info>
+    <Student>
+        <Roll_no>101</Roll_no>
+        <Name>John Doe</Name>
+        <Marks>95</Marks>
+        <Rank>2</Rank>
+        <Result></Result>
+    </Student>
+    <Student>
+        <Roll_no>102</Roll_no>
+        <Name>Jane Smith</Name>
+        <Marks>65</Marks>
+        <Rank>7</Rank>
+        <Result></Result>
+    </Student>
+    <Student>
+        <Roll_no>103</Roll_no>
+        <Name>Moose Clark</Name>
+        <Marks>35</Marks>
+        <Rank>15</Rank>
+        <Result></Result>
+    </Student>
+        <Student>
+        <Roll_no>103</Roll_no>
+        <Name>Emily Clark</Name>
+        <Marks>55</Marks>
+        <Rank>15</Rank>
+        <Result></Result>
+    </Student>
+</Info>
